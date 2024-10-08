@@ -60,7 +60,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Facebook
         altText: ''
         url: 'https://facebook.com/purecompr'
         showIcon: false
