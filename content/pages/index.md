@@ -203,4 +203,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+metaTitle: Pure Computers
 ---
