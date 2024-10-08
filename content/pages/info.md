@@ -42,6 +42,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    subtitle: "I founded Pure Computers over a decade ago with a clear mission:\_"
   - type: DividerSection
     styles:
       self:
