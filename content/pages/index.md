@@ -209,4 +209,8 @@ metaDescription: >-
   Estimate
 addTitleSuffix: true
 socialImage: /images/gallery-1.jpg
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
