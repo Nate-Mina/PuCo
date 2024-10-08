@@ -69,16 +69,6 @@ sections:
         style: secondary
         elementId: ''
     text: "Hey there, tech-savvy enthusiasts! \U0001F3AE\U0001F4BB Looking for top-notch custom gaming builds, expert repair services, efficient IT networking solutions, and a wide range of computer sales, repairs, and upgrades? Look no further! \n\n\U0001F31FWhether you're a residential user or a commercial business, we've got you covered. Our team is here to make your life easier and get you back on track in no time. Plus, guess what?\n\n You can kickstart your journey with us by getting a FREE consultation or service estimate today!\n\n \U0001F680No task is too small or too large for us—we're here to cater to all your needs. So why wait? Reach out to us, let our knowledgeable experts guide you in the right direction, and let's elevate your tech experience together. Let's chat soon!\_\n\n"
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: 'https://youtu.be/BD-YliszGkA'
-      elementId: ''
-      autoplay: true
-      loop: true
-      muted: true
-      controls: true
-      aspectRatio: '4:3'
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
