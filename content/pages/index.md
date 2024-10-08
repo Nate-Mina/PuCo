@@ -204,4 +204,7 @@ sections:
       text:
         textAlign: left
 metaTitle: Pure Computers
+metaDescription: >-
+  Computers, Repair, Rochester, NY, Tech, Support, cheap, fast, local, free,
+  Estimate
 ---
