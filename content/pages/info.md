@@ -13,7 +13,22 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: "# I'm Nathaniel,\n\n\n\n### **I founded Pure Computers over a decade ago with a clear mission:**\_\n\nMake technology accessible and empower individuals through affordable computing solutions. Throughout the years, we've witnessed the transformative power of technology and the widening need for guidance within this rapidly evolving landscape.\n\n\n\n### **We're constantly adapting:**\n\nOur newest focus is integrating cutting-edge AI tools to streamline tasks and unlock new possibilities. Whether you're an individual seeking to improve your digital life or a small business owner aiming to compete more effectively, we offer tailored solutions designed to save you time and boost productivity. Our expertise, paired with the power of AI, will help you overcome challenges and achieve your unique goals.\n\n\n\n\n\n\n"
+    text: >
+      Make technology accessible and empower individuals through affordable
+      computing solutions. Throughout the years, we've witnessed the
+      transformative power of technology and the widening need for guidance
+      within this rapidly evolving landscape.
+
+
+      ### **We're constantly adapting:**
+
+
+      Our newest focus is integrating cutting-edge AI tools to streamline tasks
+      and unlock new possibilities. Whether you're an individual seeking to
+      improve your digital life or a small business owner aiming to compete more
+      effectively, we offer tailored solutions designed to save you time and
+      boost productivity. Our expertise, paired with the power of AI, will help
+      you overcome challenges and achieve your unique goals.
     media:
       type: ImageBlock
       url: /images/me.png
