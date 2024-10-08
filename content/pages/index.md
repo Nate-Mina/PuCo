@@ -52,7 +52,7 @@ sections:
     actions:
       - type: Button
         label: MAIN SITE
-        altText: ''
+        altText: 'CLICK ME :)'
         url: 'https://www.PureComp.Net'
         showIcon: false
         icon: arrowRight
