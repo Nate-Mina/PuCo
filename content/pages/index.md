@@ -63,7 +63,7 @@ sections:
         label: Facebook
         altText: ''
         url: 'https://facebook.com/purecompr'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
