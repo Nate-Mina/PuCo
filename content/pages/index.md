@@ -51,7 +51,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: MAIN SITE
         altText: ''
         url: 'https://www.PureComp.Net'
         showIcon: false
