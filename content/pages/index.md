@@ -76,7 +76,7 @@ sections:
       elementId: ''
       autoplay: true
       loop: true
-      muted: false
+      muted: true
       controls: true
       aspectRatio: '4:3'
   - colors: colors-f
