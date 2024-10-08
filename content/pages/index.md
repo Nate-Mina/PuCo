@@ -13,10 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      Pure Computers offers a variety of I.T and  Networking hardware,
-      infrastructure setups from commercial to residential for all your computer
-      and support needs,
+    title: Pure Computers (PuCo)
     subtitle: >-
       From custom gaming rigs to Commercial. it deployments. such as POS systems
       CCTV digital signage, Whether it's a small issue that you need some Tech
