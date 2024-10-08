@@ -19,7 +19,10 @@ sections:
       and support needs,
     subtitle: >-
       From custom gaming rigs to Commercial. it deployments. such as POS systems
-      CCTV digital signage, large scale network buildouts 
+      CCTV digital signage, Whether it's a small issue that you need some Tech
+      support for we can remotely connect to your computer. Just let us know
+      what your needs are and we'd be happy to give you a introductory free
+      estimate
     styles:
       self:
         height: auto
