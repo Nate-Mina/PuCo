@@ -61,7 +61,7 @@ sections:
         elementId: ''
       - type: Button
         label: Facebook
-        altText: ''
+        altText: '@purecompr'
         url: 'https://facebook.com/purecompr'
         showIcon: true
         icon: facebook
