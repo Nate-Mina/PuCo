@@ -15,13 +15,13 @@
             },
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
+                "label": "Blog",
+                "url": "/blog"
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
+                "label": "Info",
+                "url": "/info"
             }
         ],
         "socialLinks": [
