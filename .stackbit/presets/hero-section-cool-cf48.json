@@ -1,0 +1,97 @@
+{
+    "model": "HeroSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "cool",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "pages"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Pure Computers (PuCo)",
+                "subtitle": "From custom gaming rigs to Commercial. it deployments. such as POS systems CCTV digital signage, Whether it's a small issue that you need some Tech support for we can remotely connect to your computer. Just let us know what your needs are and we'd be happy to give you a introductory free estimate",
+                "text": "Hey there, tech-savvy enthusiasts! 🎮💻 Looking for top-notch custom gaming builds, expert repair services, efficient IT networking solutions, and a wide range of computer sales, repairs, and upgrades? Look no further! \n\n🌟Whether you're a residential user or a commercial business, we've got you covered. Our team is here to make your life easier and get you back on track in no time. Plus, guess what?\n\n You can kickstart your journey with us by getting a FREE consultation or service estimate today!\n\n 🚀No task is too small or too large for us—we're here to cater to all your needs. So why wait? Reach out to us, let our knowledgeable experts guide you in the right direction, and let's elevate your tech experience together. Let's chat soon! \n\n",
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "MAIN SITE",
+                        "altText": "CLICK ME :)",
+                        "url": "https://www.PureComp.Net",
+                        "showIcon": true,
+                        "icon": "chevronRight",
+                        "iconPosition": "left",
+                        "style": "secondary",
+                        "elementId": ""
+                    },
+                    {
+                        "$$type": "Button",
+                        "label": "Facebook",
+                        "altText": "@purecompr",
+                        "url": "https://facebook.com/purecompr",
+                        "showIcon": true,
+                        "icon": "facebook",
+                        "iconPosition": "left",
+                        "style": "secondary",
+                        "elementId": ""
+                    }
+                ],
+                "media": {
+                    "$$type": "VideoBlock",
+                    "title": "Title of the video",
+                    "url": "https://youtu.be/BD-YliszGkA",
+                    "elementId": "",
+                    "autoplay": true,
+                    "loop": true,
+                    "muted": true,
+                    "controls": true,
+                    "aspectRatio": "4:3"
+                },
+                "colors": "colors-f",
+                "backgroundSize": "full",
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "margin": [
+                            "mt-0",
+                            "mb-0",
+                            "ml-0",
+                            "mr-0"
+                        ],
+                        "padding": [
+                            "pt-36",
+                            "pb-48",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "flexDirection": "row-reverse"
+                    },
+                    "title": {
+                        "textAlign": "center",
+                        "fontWeight": 400,
+                        "textDecoration": "underline",
+                        "fontStyle": "italic"
+                    },
+                    "subtitle": {
+                        "textAlign": "left"
+                    },
+                    "text": {
+                        "textAlign": "left"
+                    },
+                    "actions": {
+                        "justifyContent": "flex-start"
+                    }
+                }
+            },
+            "thumbnail": "images/hero-section-cool-cf48.png"
+        }
+    ]
+}
