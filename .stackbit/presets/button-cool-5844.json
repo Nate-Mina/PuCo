@@ -1,0 +1,28 @@
+{
+    "model": "Button",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "cool",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "buttons"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "MAIN SITE",
+                "altText": "CLICK ME :)",
+                "url": "https://www.PureComp.Net",
+                "showIcon": true,
+                "icon": "chevronRight",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
+            },
+            "thumbnail": "images/button-cool-5844.png"
+        }
+    ]
+}
