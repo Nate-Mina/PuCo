@@ -55,7 +55,7 @@ sections:
         altText: 'CLICK ME :)'
         url: 'https://www.PureComp.Net'
         showIcon: true
-        icon: apple
+        icon: chevronLeft
         iconPosition: right
         style: primary
         elementId: ''
