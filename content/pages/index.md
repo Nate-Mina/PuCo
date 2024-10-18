@@ -13,10 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      Pure Computers offers a variety of I.T and  Networking hardware,
-      infrastructure setups from commercial to residential for all your computer
-      and support needs,
+    title: Pure Computers (PuCo)
     subtitle: >-
       From custom gaming rigs to Commercial. it deployments. such as POS systems
       CCTV digital signage, Whether it's a small issue that you need some Tech
@@ -41,7 +38,10 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
       title:
-        textAlign: left
+        textAlign: center
+        fontWeight: 400
+        textDecoration: underline
+        fontStyle: italic
       subtitle:
         textAlign: left
       text:
@@ -51,15 +51,24 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
-        altText: ''
+        label: MAIN SITE
+        altText: 'CLICK ME :)'
         url: 'https://www.PureComp.Net'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+        showIcon: true
+        icon: chevronRight
+        iconPosition: left
+        style: secondary
         elementId: ''
-    text: wddsad
+      - type: Button
+        label: Facebook
+        altText: '@purecompr'
+        url: 'https://facebook.com/purecompr'
+        showIcon: true
+        icon: facebook
+        iconPosition: left
+        style: secondary
+        elementId: ''
+    text: "Hey there, tech-savvy enthusiasts! \U0001F3AE\U0001F4BB Looking for top-notch custom gaming builds, expert repair services, efficient IT networking solutions, and a wide range of computer sales, repairs, and upgrades? Look no further! \n\n\U0001F31FWhether you're a residential user or a commercial business, we've got you covered. Our team is here to make your life easier and get you back on track in no time. Plus, guess what?\n\n You can kickstart your journey with us by getting a FREE consultation or service estimate today!\n\n \U0001F680No task is too small or too large for us—we're here to cater to all your needs. So why wait? Reach out to us, let our knowledgeable experts guide you in the right direction, and let's elevate your tech experience together. Let's chat soon!\_\n\n"
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -206,4 +215,14 @@ sections:
         textAlign: left
       text:
         textAlign: left
+metaTitle: Pure Computers
+metaDescription: >-
+  Computers, Repair, Rochester, NY, Tech, Support, cheap, fast, local, free,
+  Estimate
+addTitleSuffix: true
+socialImage: /images/gallery-1.jpg
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
