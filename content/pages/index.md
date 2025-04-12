@@ -69,6 +69,69 @@ sections:
         style: secondary
         elementId: ''
     text: "Hey there, tech-savvy enthusiasts! \U0001F3AE\U0001F4BB Looking for top-notch custom gaming builds, expert repair services, efficient IT networking solutions, and a wide range of computer sales, repairs, and upgrades? Look no further! \n\n\U0001F31FWhether you're a residential user or a commercial business, we've got you covered. Our team is here to make your life easier and get you back on track in no time. Plus, guess what?\n\n You can kickstart your journey with us by getting a FREE consultation or service estimate today!\n\n \U0001F680No task is too small or too large for us—we're here to cater to all your needs. So why wait? Reach out to us, let our knowledgeable experts guide you in the right direction, and let's elevate your tech experience together. Let's chat soon!\_\n\n"
+  - type: ContactSection
+    title: Contact Me
+    text: I'm look forward to hearing from you.
+    form:
+      type: FormBlock
+      title: Title of the form
+      fields:
+        - type: TextFormControl
+          name: name
+          label: Name
+          hideLabel: false
+          placeholder: Your name
+          width: 1/2
+          isRequired: 'true'
+        - type: EmailFormControl
+          name: email
+          label: Name
+          hideLabel: false
+          placeholder: Your email
+          width: 1/2
+          isRequired: 'true'
+        - type: TextareaFormControl
+          name: message
+          label: Tell me about your project
+          hideLabel: true
+          placeholder: Tell me about your project
+          width: full
+          isRequired: true
+        - type: CheckboxFormControl
+          name: updates
+          label: Sign me up to receive updates
+          width: full
+          isRequired: 'false'
+      submitLabel: Send Message
+      elementId: contact-form
+      styles:
+        submitLabel:
+          textAlign: left
+    media:
+      type: ImageBlock
+      url: /images/contact.jpg
+      altText: Contact form image
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-d
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
