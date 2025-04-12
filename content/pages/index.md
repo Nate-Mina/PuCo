@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-e
     backgroundSize: inset
     title: Pure Computers (PuCo)
     subtitle: >-
