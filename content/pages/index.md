@@ -58,7 +58,7 @@ sections:
         url: 'https://www.PureComp.Net'
         showIcon: true
         icon: chevronRight
-        iconPosition: left
+        iconPosition: right
         style: secondary
         elementId: ''
       - type: Button
