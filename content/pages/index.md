@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: Pure Computers (PuCo)
     subtitle: >-
       From custom gaming rigs to Commercial. it deployments. such as POS systems
