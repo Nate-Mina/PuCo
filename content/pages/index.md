@@ -56,7 +56,7 @@ sections:
         label: MAIN SITE
         altText: 'CLICK ME :)'
         url: 'https://www.PureComp.Net'
-        showIcon: true
+        showIcon: false
         icon: arrowUpLeft
         iconPosition: right
         style: primary
