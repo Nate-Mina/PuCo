@@ -54,7 +54,7 @@ sections:
     actions:
       - type: Button
         label: MAIN SITE
-        altText: 'CLICK ME :)'
+        altText: 'https://www.PureComp.Net'
         url: 'https://www.PureComp.Net'
         showIcon: true
         icon: arrowUpLeft
