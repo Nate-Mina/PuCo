@@ -54,7 +54,7 @@ sections:
     actions:
       - type: Button
         label: MAIN SITE
-        altText: 'https://www.PureComp.Net'
+        altText: 'MAIN SITE @ https://www.PureComp.Net'
         url: 'https://www.PureComp.Net'
         showIcon: true
         icon: arrowUpLeft
