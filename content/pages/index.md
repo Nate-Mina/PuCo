@@ -57,7 +57,7 @@ sections:
         altText: 'CLICK ME :)'
         url: 'https://www.PureComp.Net'
         showIcon: true
-        icon: cart
+        icon: arrowRightCircle
         iconPosition: right
         style: primary
         elementId: ''
